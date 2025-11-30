@@ -46,12 +46,10 @@ Backend-разработчик (Java), Ижевск, Россия.
 ---
 
 ## Статистика GitHub
-
-![GitHub stats](### :fire: My Stats :
 <table><tbody>
 	<tr>
 		<td colspan="2" align="center">
-		<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sm1l43s&theme=github" alt="Github stats" />
+		<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barusher&theme=github" alt="Github stats" />
 	</td>
 	</tr>
 	<tr>
@@ -59,12 +57,6 @@ Backend-разработчик (Java), Ижевск, Россия.
 		<img height="195px" align="center" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm1l43s&layout=compact&theme=github" />
 		</td>
 </tbody></table>)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barusher&layout=compact&theme=default)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barusher&theme=github-light)
-
----
-
 ## Контакты
 
 - GitHub: [https://github.com/barusher](https://github.com/barusher)
