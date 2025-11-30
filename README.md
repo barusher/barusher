@@ -57,6 +57,9 @@ Backend-разработчик (Java), Ижевск, Россия.
 		<img height="195px" align="center" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm1l43s&layout=compact&theme=github" />
 		</td>
 </tbody></table>)
+
+---
+
 ## Контакты
 
 - GitHub: [https://github.com/barusher](https://github.com/barusher)
