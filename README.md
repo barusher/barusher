@@ -53,10 +53,7 @@ Backend-разработчик (Java), Ижевск, Россия.
 	</td>
 	</tr>
 	<tr>
-		<td align="center">
-		<img height="195px" align="center" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm1l43s&layout=compact&theme=github" />
-		</td>
-</tbody></table>)
+</tbody></table>
 
 ---
 
